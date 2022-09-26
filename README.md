@@ -1,5 +1,5 @@
 # Movie-Library
-A basic Movie Library app that saves the details of the movie that the user inputs by utilizing relational databases
+A basic Movie Library app that is able to detect custom gestures and saves the details of the movie that the user inputs by utilizing relational databases such as SQLite and Firebase
 
 ## Example of how it looks like 
 
