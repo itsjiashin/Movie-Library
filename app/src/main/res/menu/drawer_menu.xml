@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/buttonClose"
+        android:title="Close" />
+    <item
+        android:id="@+id/buttonAddMovie"
+        android:title="Add Movie" />
+    <item
+        android:id="@+id/buttonRemoveLastMovie"
+        android:title="Remove Last Movie" />
+    <item
+        android:id="@+id/buttonRemoveAllMovie"
+        android:title="Remove All Movie" />
+    <item
+        android:id="@+id/buttonListAllMovies"
+        android:title="List All Movies" />
+</menu>

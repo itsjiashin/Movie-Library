@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/buttonTotalMovies"
+        android:title="Total movies" />
+    <item
+        android:id="@+id/buttonClearFields"
+        android:title="Clear Fields" />
+</menu>
